@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">aula01-android-studio</string>
+
+    <string name="canal">CFB Cursos</string>
+    <string name="curso">Curso de Android Studio com Java</string>
 </resources>

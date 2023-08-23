@@ -10,4 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-}
+}//class
+/*
+TUDO está declarado/possui uma instância na class R
+
+R. layout     .activity_main
+R  categoria  item que deseja acesso
+
+
+
+
+
+ */
